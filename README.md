@@ -1,4 +1,4 @@
-# 🚀 YOLO11 Object Detection with COCO128 – Complete Beginner Project
+#VisionX: Real-Time Multi-Object 
 
 A beginner-friendly, end-to-end project to learn **Object Detection using Ultralytics YOLO11** and the **COCO128** dataset. This repository is designed as a hands-on learning project that covers the complete computer vision pipeline—from environment setup and dataset exploration to model training, evaluation, and real-time webcam inference.
 
